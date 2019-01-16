@@ -1,0 +1,1 @@
+nohup python main.py --train=True --clean=True nohup.out 2>&1 &
