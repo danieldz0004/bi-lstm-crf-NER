@@ -1,5 +1,5 @@
-模型训练：
+train model：
 python main.py --train=True --clean=True
 
-模型预测：
+predict：
 python main.py
